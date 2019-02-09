@@ -29,6 +29,7 @@ class App extends Component {
         />
 
          <SignIn/>
+         //TODO just adding this in to test closing issues 
        <ClientTable/>
       </div>
     );
